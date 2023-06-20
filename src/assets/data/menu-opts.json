@@ -1,0 +1,29 @@
+[
+    {
+      "icon": "american-football-outline",
+      "name": "Action Sheet",
+      "redirectTo": "/action-sheet"
+    },
+    {
+      "icon": "american-football-outline",
+      "name": "Action Sheet",
+      "redirectTo": "/alert"
+    },
+    {
+      "icon": "beaker",
+      "name": "Avatar",
+      "redirectTo": "/avatar"
+    },
+    {
+      "icon": "radio-button-on",
+      "name": "Botones",
+      "redirectTo": "/button"
+    },
+  
+    {
+      "icon": "radio-button-on",
+      "name": "Input Forms",
+      "redirectTo": "/input"
+    }
+    
+  ]
