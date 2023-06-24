@@ -5,12 +5,12 @@
       "redirectTo": "/action-sheet"
     },
     {
-      "icon": "american-football-outline",
-      "name": "Action Sheet",
+      "icon": "alert-circle-outline",
+      "name": "Alert",
       "redirectTo": "/alert"
     },
     {
-      "icon": "beaker",
+      "icon": "person-circle-outline",
       "name": "Avatar",
       "redirectTo": "/avatar"
     },
@@ -21,9 +21,14 @@
     },
   
     {
-      "icon": "radio-button-on",
+      "icon": "receipt-outline",
       "name": "Input Forms",
       "redirectTo": "/input"
+    },
+    {
+      "icon": "ribbon-outline",
+      "name": "Input Examen",
+      "redirectTo": "/inputexa"
     }
     
   ]
